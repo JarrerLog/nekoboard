@@ -24,4 +24,4 @@ Thanks to the open source project license provided by [Jetbrains](https://www.je
 Follow the template in the issue to submit your question correctly, and we will have someone follow up with you.
 
 # DC 
-[V2board][https://github.com/v2board/v2board]
+[V2board](https://github.com/v2board/v2board)
